@@ -24,6 +24,7 @@ class RouterSeeder extends Seeder
             ['identificador'=>'R007','ip'=>'192.168.1.65','hostname'=>'Sala-de-estar', 'name'=>'GOOGLE ', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R008','ip'=>'192.168.1.64','hostname'=>'TL-WR840N', 'name'=>'ROUTER', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R009','ip'=>'192.168.1.254','hostname'=>'Router-Telmex', 'name'=>'Telmex', 'created_at' => date('Y-m-d H:i:s')],
+            /*
             ['identificador'=>'R010','ip'=>'192.168.1.100','hostname'=>'Router-10', 'name'=>'Router-10', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R011','ip'=>'192.168.1.101','hostname'=>'Router-11', 'name'=>'Router-11', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R012','ip'=>'192.168.1.102','hostname'=>'Router-12', 'name'=>'Router-12', 'created_at' => date('Y-m-d H:i:s')],
@@ -39,7 +40,7 @@ class RouterSeeder extends Seeder
             ['identificador'=>'R022','ip'=>'192.168.1.112','hostname'=>'Router-22', 'name'=>'Router-22', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R023','ip'=>'192.168.1.113','hostname'=>'Router-23', 'name'=>'Router-23', 'created_at' => date('Y-m-d H:i:s')],
             ['identificador'=>'R024','ip'=>'192.168.1.114','hostname'=>'Router-24', 'name'=>'Router-24', 'created_at' => date('Y-m-d H:i:s')],
-            ['identificador'=>'R025','ip'=>'192.168.1.115','hostname'=>'Router-25', 'name'=>'Router-25', 'created_at' => date('Y-m-d H:i:s')]           
+            ['identificador'=>'R025','ip'=>'192.168.1.115','hostname'=>'Router-25', 'name'=>'Router-25', 'created_at' => date('Y-m-d H:i:s')]           */
         ]);  
     }
 }
